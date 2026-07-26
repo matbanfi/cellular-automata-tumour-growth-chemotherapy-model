@@ -7,15 +7,15 @@ The objective of this project was to implement a stochastic cellular automata mo
 
 The simulation is divided into two stages:
 
-1. Tumour Growth: the model reproduces the proliferation and spatial expansion of tumour cells, including their interactions with healthy tissue.
-2. Chemotherapy Treatment: once the tumour reaches a certain stage of development, chemotherapy is introduced to evaluate its impact on both cancerous and healthy cells.
+1. Tumour Growth: the model reproduces the proliferation and spatial expansion of tumour cells, including their interactions with healthy tissue
+2. Chemotherapy Treatment: once the tumour reaches a certain stage of development, chemotherapy is introduced to evaluate its impact on both cancerous and healthy cells
 
 The model investigates how different treatment strategies influence tumour evolution. In particular, the following aspects are analysed:
 
-- Different therapy strategies through model parameters.
-- Timing of therapy initiation.
-- Number of chemotherapy infusions and the time interval between them.
-- Resistance of proliferative tumour cells to treatment.
+- Different therapy strategies through model parameters
+- Timing of therapy initiation
+- Number of chemotherapy infusions and the time interval between them
+- Resistance of proliferative tumour cells to treatment
 
 By varying these parameters, the project explores how each factor affects tumour progression and treatment effectiveness.
 
@@ -23,10 +23,10 @@ By varying these parameters, the project explores how each factor affects tumour
 
 The assignment included the following tasks:
 
-- Selection and implementation of an appropriate computational model.
-- Model validation and parameter definition.
-- Analysis and comparison of simulation results.
-- Critical evaluation of the model performance.
+- Selection and implementation of an appropriate computational model
+- Model validation and parameter definition
+- Analysis and comparison of simulation results
+- Critical evaluation of the model performance
 
 ## Report
 
