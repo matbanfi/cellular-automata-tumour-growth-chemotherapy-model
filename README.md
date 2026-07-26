@@ -45,7 +45,9 @@ It contains:
 
 This project was developed as part of a university assignment and is based on the paper:
 
-> *A Cellular Automata Model of Chemotherapy Effects on Tumour Growth*
+> *A cellular automata model of chemotherapy effects on tumour growth: targeting cancer and immune cells*
+> *Fateme Pourhasanzade and S. H. Sabzpoushan*
+> *MATHEMATICAL AND COMPUTER MODELLING OF DYNAMICAL SYSTEMS, 2019, VOL. 25, NO. 1, 63-89*
 
 Please refer to the report included in this repository for a detailed description of the implementation and the experimental results.
 
