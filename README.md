@@ -45,7 +45,7 @@ It contains:
 
 This project was developed as part of a university assignment and is based on the paper:
 
-> *A cellular automata model of chemotherapy effects on tumour growth: targeting cancer and immune cells*<br>
+> *"A cellular automata model of chemotherapy effects on tumour growth: targeting cancer and immune cells"*<br>
 > *Fateme Pourhasanzade and S. H. Sabzpoushan*<br>
 > *MATHEMATICAL AND COMPUTER MODELLING OF DYNAMICAL SYSTEMS, 2019, VOL. 25, NO. 1, 63-89*
 
