@@ -45,7 +45,7 @@ It contains:
 
 This project was developed as part of a university assignment and is based on the paper:
 
-> *A Cellular Automata Model of Chemotherapy Effects on Tumour Growth.*
+> *A Cellular Automata Model of Chemotherapy Effects on Tumour Growth*
 
 Please refer to the report included in this repository for a detailed description of the implementation and the experimental results.
 
