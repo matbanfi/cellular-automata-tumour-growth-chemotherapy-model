@@ -28,7 +28,7 @@ The assignment included the following tasks:
 - Analysis and comparison of simulation results
 - Critical evaluation of the model performance
 
-## Report
+## Report and Code
 
 The complete report is available here:
 
@@ -40,6 +40,10 @@ It contains:
 - experimental results
 - comparison of different chemotherapy strategies
 - discussion of the main findings
+
+The complete source code used for the implementation and experiments is available here:
+
+**💻 `code/SCAM_model.m`**
 
 ## Reference
 
